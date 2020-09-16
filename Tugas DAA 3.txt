@@ -1,0 +1,28 @@
+3. Algoritma menentukan bilangan ganjil dan genap
+
+
+Algortima:
+
+Step 1 masukan sebuah bilangan 
+
+Step 2 bagi bilanga tersebutr dengan bilangan atau angka 2
+
+Step 3 jika bilangan menghasilkan sisa pembagian 0 maka bilangan tersebut genap
+
+Steo 4 jika bilangan tidak menghasilkan sia pembagian o maka bilangan tersebut ganjil
+
+
+Pseudocode :
+
+
+Read Bilangan
+
+If bil mod 2 = 0  then,
+
+“Output Genap”
+
+Else
+
+“Output Ganjil”
+
+End if
